@@ -192,6 +192,11 @@ div .work-left {
     height: auto;
 }
 
+.img-box-resize{
+    width: 300px;
+    height: auto;
+}
+
 /* Image Subtitles */
 .sub-one {
     position: relative;
