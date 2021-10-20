@@ -222,6 +222,8 @@ div .work-left {
     color: var( --dark-color);
     padding: 1rem;
     text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
 }
 
 
@@ -232,6 +234,8 @@ div .work-left {
     color: var( --dark-color);
     padding: 1rem;
     text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
 }
 
 .sub-three > #img-title3 {
@@ -241,6 +245,8 @@ div .work-left {
     color: var( --dark-color);
     padding: 1rem;
     text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
 }
 
 .sub-four > #img-title4 {
