@@ -1,7 +1,7 @@
 # Laurel Thorburn's Portfolio
 
 # Description
-The purpose of this project was to create an updated portfolio in order to showcase my work for future employers. I have showcased 5 of my top projects thus far and will continue to update my portfolio over time. In addition, I ensured potential employers have access to my GitHub, LinkedIn, and my resume along with my contact information.
+The purpose of this project was to create an updated portfolio in order to showcase my work for future employers. I have displayed 5 of my top projects thus far and will continue to update my portfolio over time. In addition, I ensured potential employers have access to my GitHub, LinkedIn, and my resume along with my contact information.
 
 ## User Story
 
