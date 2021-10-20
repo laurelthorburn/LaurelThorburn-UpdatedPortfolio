@@ -1,7 +1,7 @@
 # Laurel Thorburn's Portfolio
 
 # Description
-The purpose of this project was to create a portfolio in order to showcase my work for future employers. This project allows me to demonstrate my CSS skills in both design and coding. Throughout this undertaking, I was able to continue to grow my CSS skills, especially in terms of flexbox, responsive design, hover effects, and troubleshooting broken code.  This project also helped expand my knowledge and comfort of reading code and understanding the code's output.
+The purpose of this project was to create an updated portfolio in order to showcase my work for future employers. I have showcased 5 of my top projects thus far and will continue to update my portfolio over time. In addition, I ensured potential employers have access to my GitHub, LinkedIn, and my resume along with my contact information.
 
 ## User Story
 
@@ -35,6 +35,14 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ![Screenshot of Laurel Thorburn's Portfolio](Assets/images/LTScreenshot.png)
 
 # Links
+
 Github: https://github.com/laurelthorburn/LaurelThorburn-UpdatedPortfolio
 
 Deployed Site: https://laurelthorburn.github.io/LaurelThorburn-UpdatedPortfolio/
+
+# Collaborators
+
+Laurel Thorburn: codinglaurel@gmail.com
+
+# License
+* MIT
